@@ -5,3 +5,5 @@ streamlit_drawable_canvas
 opencv-python-headless
 opencv-contrib-python
 opencv-contrib-phyton-headless
+matplotlib
+seaborn
